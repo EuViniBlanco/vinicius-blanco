@@ -1,6 +1,7 @@
 {
   "name": "vinicius-blanco",
   "version": "0.1.0",
+  "homepage": "vinicius-blanco/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
